@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevarshOnChallenge", "DevarshOnChallenge\DevarshOnChallenge.csproj", "{4F272BEB-D087-48DD-9773-8594E6C6D9E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevarshOnChallenge", "DevarshOnChallenge\DevarshOnChallenge.csproj", "{4F272BEB-D087-48DD-9773-8594E6C6D9E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadifyChallengeTest", "ReadifyChallengeTest\ReadifyChallengeTest.csproj", "{11A166F0-7AE7-4905-B5EF-16F840D38678}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackToUniversity", "BackToUniversity\BackToUniversity.csproj", "{4FAFC764-D03D-4894-85AA-75E72586F8FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadifyChallengeTest", "ReadifyChallengeTest\ReadifyChallengeTest.csproj", "{11A166F0-7AE7-4905-B5EF-16F840D38678}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +21,6 @@ Global
 		{11A166F0-7AE7-4905-B5EF-16F840D38678}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11A166F0-7AE7-4905-B5EF-16F840D38678}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11A166F0-7AE7-4905-B5EF-16F840D38678}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4FAFC764-D03D-4894-85AA-75E72586F8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4FAFC764-D03D-4894-85AA-75E72586F8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4FAFC764-D03D-4894-85AA-75E72586F8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4FAFC764-D03D-4894-85AA-75E72586F8FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

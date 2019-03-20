@@ -5,14 +5,15 @@
 namespace ReadifyChallengeTest
 {
     using System;
+    
     using Xunit;
 
-    public class UnitTest1
+    public class FibonacciUnitTests
     {
         [Fact]
         public void Test1()
         {
-
+            
         }
     }
 }
