@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ChallangePrototype\ChallangePrototype.csproj" />
+    <ProjectReference Include="..\ReadifyPrototype\ReadifyPrototype.csproj" />
   </ItemGroup>
 
 </Project>

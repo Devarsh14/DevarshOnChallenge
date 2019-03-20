@@ -5,7 +5,6 @@
 namespace ReadifyChallengeTest
 {
     using System;
-    
     using Xunit;
 
     public class FibonacciUnitTests
