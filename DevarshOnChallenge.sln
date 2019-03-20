@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevarshOnChallenge", "Devar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadifyChallengeTest", "ReadifyChallengeTest\ReadifyChallengeTest.csproj", "{11A166F0-7AE7-4905-B5EF-16F840D38678}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackToUniversity", "BackToUniversity\BackToUniversity.csproj", "{4FAFC764-D03D-4894-85AA-75E72586F8FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{11A166F0-7AE7-4905-B5EF-16F840D38678}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11A166F0-7AE7-4905-B5EF-16F840D38678}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11A166F0-7AE7-4905-B5EF-16F840D38678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FAFC764-D03D-4894-85AA-75E72586F8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FAFC764-D03D-4894-85AA-75E72586F8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FAFC764-D03D-4894-85AA-75E72586F8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FAFC764-D03D-4894-85AA-75E72586F8FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
